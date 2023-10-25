@@ -27,7 +27,7 @@
 ## 8.1、首先尋找類，可通過尋找名詞，動詞來確定
 >需求過程中的名詞組
 >
-![image](https://github.com/XUYR00/MID/blob/main/8.1%E5%90%8D%E8%A9%9E%E7%B5%84.png)
+![image]()
 >
 >需求過程中的動詞組
 ![image]()
