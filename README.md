@@ -31,7 +31,7 @@
 >
 >需求過程中的動詞組
 >
-![image]()
+![image](https://github.com/XUYR00/MID/blob/main/8.1%E5%8B%95%E8%A9%9E%E7%B5%84.png)
 ## 8.2、繪製類圖
 ![image]()
 ## ⑨、對象圖
