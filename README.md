@@ -16,7 +16,8 @@
 ![image]()
 ## 組合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow3.png)
 ## 6.2.2、泛化關係:![image](https://github.com/XUYR00/MID/blob/main/arrow4.png)
-## 6.2.3、實現關係:![image]()
-## ⑦、
-## ⑧、
+## 6.2.3、實現關係:![image](https://github.com/XUYR00/MID/blob/main/arrow5.png)
+## 6.2.4、依賴關係:![image](https://github.com/XUYR00/MID/blob/main/arrow6.png)
+## ⑦、類圖思維導圖
+## ⑧、以機房收費系統為實例繪製類圖
 ## ⑨、
