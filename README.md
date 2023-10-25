@@ -14,7 +14,7 @@
 ## 聚合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow2.png)
 >特殊關聯關係，指明一個聚合(整體)和組成部分之間的關係
 ![image]()
-##組合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow3.png)
+## 組合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow3.png)
 ## ⑦、
 ## ⑧、
 ## ⑨、
