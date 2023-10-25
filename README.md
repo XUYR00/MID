@@ -15,7 +15,8 @@
 >特殊關聯關係，指明一個聚合(整體)和組成部分之間的關係
 ![image]()
 ## 組合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow3.png)
-## 6.2.2、泛化關係:![image]()
+## 6.2.2、泛化關係:![image](https://github.com/XUYR00/MID/blob/main/arrow4.png)
+## 6.2.3、實現關係:![image]()
 ## ⑦、
 ## ⑧、
 ## ⑨、
