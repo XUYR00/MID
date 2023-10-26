@@ -16,6 +16,7 @@
 ![image](https://github.com/XUYR00/MID/blob/main/pic2.png)
 ## 組合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow3.png)
 >語意更強的聚合，部分和整體具有相同的生命週期
+![image](https://github.com/XUYR00/MID/blob/main/pic3.png)
 ## 6.2.2、泛化關係:![image](https://github.com/XUYR00/MID/blob/main/arrow4.png)
 >在面向對象中一般稱為繼承關係，存在於父類與子類、父接口與子接口
 ## 6.2.3、實現關係:![image](https://github.com/XUYR00/MID/blob/main/arrow5.png)
