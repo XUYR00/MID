@@ -49,5 +49,3 @@
 ![image](https://github.com/XUYR00/MID/blob/main/9.2.png)
 ## 對象圖:
 ![image](https://github.com/XUYR00/MID/blob/main/9.2.drawio%20(2).png)
-### 以上是依照個人理解繪製的機房收費系統類圖、對象圖(如有不足，請您給予指正)
-### 下一站走起^-^
