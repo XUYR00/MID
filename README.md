@@ -13,7 +13,7 @@
 >一般的關聯關係語意較弱，也有兩種語意較強，分別是聚合和組合
 ## 聚合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow2.png)
 >特殊關聯關係，指明一個聚合(整體)和組成部分之間的關係
-![image]()
+![image](https://github.com/XUYR00/MID/blob/main/pic2.png)
 ## 組合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow3.png)
 >語意更強的聚合，部分和整體具有相同的生命週期
 ## 6.2.2、泛化關係:![image](https://github.com/XUYR00/MID/blob/main/arrow4.png)
