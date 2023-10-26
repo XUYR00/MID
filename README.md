@@ -19,6 +19,7 @@
 ![image](https://github.com/XUYR00/MID/blob/main/pic3.png)
 ## 6.2.2、泛化關係:![image](https://github.com/XUYR00/MID/blob/main/arrow4.png)
 >在面向對象中一般稱為繼承關係，存在於父類與子類、父接口與子接口
+![image](https://github.com/XUYR00/MID/blob/main/pic4.png)
 ## 6.2.3、實現關係:![image](https://github.com/XUYR00/MID/blob/main/arrow5.png)
 >對應於類和接口之間的關係
 ## 6.2.4、依賴關係:![image](https://github.com/XUYR00/MID/blob/main/arrow6.png)
