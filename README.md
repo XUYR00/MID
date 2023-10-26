@@ -26,7 +26,7 @@
 ![image](https://github.com/XUYR00/MID/blob/main/pic6.png)
 ## 6.2.4、依賴關係:![image](https://github.com/XUYR00/MID/blob/main/arrow6.png)
 >UML類圖依賴關係是一種使用關係，特定事務的改變有可能會影響到使用該事物的事物，反之不成立。在你想顯示一個事務使用另一個事物時使用，兩個元素之間的一種關係，其中一個元素(服務者)的變化將影響另一個元素(客戶)，或向它(客戶)提供所需信息。
->依賴關係與其他關係的區別鏈結:(https://github.com/XUYR00/MID/blob/main/pic1.png)
+>依賴關係與其他關係的區別鏈結:(https://www.51cto.com/article/208280.html)
 ## ⑦、類圖思維導圖
 ![image]()
 ## ⑧、以機房收費系統為實例繪製類圖
