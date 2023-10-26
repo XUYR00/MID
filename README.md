@@ -48,5 +48,5 @@
 ## 9.2類圖與對象圖的區別?
 ![image](https://github.com/XUYR00/MID/blob/main/9.2.png)
 ## 對象圖:
-![image]()
+![image](https://github.com/XUYR00/MID/blob/main/9.2.drawio.png)
 
