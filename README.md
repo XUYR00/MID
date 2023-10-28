@@ -23,6 +23,7 @@
 > ![image](https://github.com/XUYR00/MID/blob/main/6.1.2.drawio.png)
 ## 6.1.3、抽象類
 > 不能被實例化的類，一般至少包含一個抽像操作，與類圖的主要區別在於抽象類的名稱、方法為斜體。
+> ![image](https://github.com/XUYR00/MID/blob/main/6.1.3.drawio.png)
 ## 6.1.4、模板類
 > 一種參數化的類，在編譯時把模板參數綁定到不同的數據類型，從而產生不同的類。
 ## 6.2、類的關係
