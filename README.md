@@ -29,7 +29,7 @@
 
 >依賴關係與其他關係的區別鏈結:(https://www.51cto.com/article/208280.html)
 ## ⑦、類圖思維導圖
-![image]()
+![image](https://github.com/XUYR00/MID/blob/main/pic7.png)
 ## ⑧、以機房收費系統為實例繪製類圖
 ## 8.1、首先尋找類，可通過尋找名詞，動詞來確定
 >需求過程中的名詞組
