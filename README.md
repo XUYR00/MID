@@ -26,6 +26,7 @@
 > ![image](https://github.com/XUYR00/MID/blob/main/6.1.3.drawio.png)
 ## 6.1.4、模板類
 > 一種參數化的類，在編譯時把模板參數綁定到不同的數據類型，從而產生不同的類。
+> ![image](https://github.com/XUYR00/MID/blob/main/6.1.4.drawio.png)
 ## 6.2、類的關係
 ## 6.2.1關聯關係: ![image](https://github.com/XUYR00/MID/blob/main/arrow1.png)
 >描述了類的結構之間的關係，具有方向、名字、角色和多重性等信息。
