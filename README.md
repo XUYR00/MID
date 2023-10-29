@@ -61,7 +61,7 @@
 >
 ![image](https://github.com/XUYR00/MID/blob/main/image/8.1%E5%8B%95%E8%A9%9E%E7%B5%84.png)
 ## 8.2、繪製類圖
-![image](https://github.com/XUYR00/MID/blob/main/8.2.drawio.png)
+![image](https://github.com/XUYR00/MID/blob/main/image/8.2.drawio%20(1).png)
 ## ⑨、對象圖
 ## 9.1什麼是對象圖?
 >對象圖也是靜態圖的一種，但是對象圖描述一個系統在某個時刻的靜態結構，顯示的是對象與對象之間的關係，而類圖描述所有可能的情況。
