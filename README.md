@@ -30,7 +30,7 @@
 ## 6.2、類的關係
 ## 6.2.1關聯關係: ![image](https://github.com/XUYR00/MID/blob/main/arrow1.png)
 >描述了類的結構之間的關係，具有方向、名字、角色和多重性等信息。
-![image]()
+![image](https://github.com/XUYR00/MID/blob/main/pic1.png)
 >一般的關聯關係語意較弱，也有兩種語意較強，分別是聚合和組合
 ## 聚合關係:![image](https://github.com/XUYR00/MID/blob/main/arrow2.png)
 >特殊關聯關係，指明一個聚合(整體)和組成部分之間的關係
