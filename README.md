@@ -69,4 +69,4 @@
 ## 9.2類圖與對象圖的區別?
 ![image](https://github.com/XUYR00/MID/blob/main/9.2.png)
 ## 對象圖:
-![image](https://github.com/XUYR00/MID/blob/main/9.2.drawio%20(2).png)
+![image](https://github.com/XUYR00/MID/blob/main/image/9.2.drawio%20(2)%20(1).png)
