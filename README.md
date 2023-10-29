@@ -17,7 +17,7 @@
 ## 6.1、類的表示
 ## 6.1.1、類的組成
 > 從上到下分為三部分，分別是類名、屬性和操作。
-> ![image](https://github.com/XUYR00/MID/blob/main/6.1.1.drawio.png)
+> ![image](https://github.com/XUYR00/MID/blob/main/image/6.1.1.drawio.png)
 ## 6.1.2、接口
 > 一組操作的集合，只有操作的聲明而沒有實現。接口圖與類圖的主要區別在於頂端的<<interface>>顯示。第一行是接口名稱，第二行是接口方法。接口還有另一種表示方法，俗稱棒棒糖表示方法。唐老鴨是能講人話的唐老鴨，實現了講人話的接口。如圖：
 > ![image](https://github.com/XUYR00/MID/blob/main/6.1.2.drawio.png)
