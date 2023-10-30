@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" modified="2023-10-30T08:26:59.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9XEtRKAKhIn0vrNJNsY7" version="22.0.8" type="google">
+  <diagram name="第 1 页" id="-soY0h8Pa1Xo71wdRwlP">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-1" value="Account" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-2" value="- balance : double = 1" style="text;strokeColor=#FF0000;fillColor=#FFF2CC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iyo8DF24NAkKlG-2CSCv-1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-3" value="+ Deposit(amount : double) : int&lt;br&gt;+ Computeinterest() : double" style="text;strokeColor=#FF0000;fillColor=#FFF2CC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Iyo8DF24NAkKlG-2CSCv-1">
+          <mxGeometry y="60" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Iyo8DF24NAkKlG-2CSCv-1" source="Iyo8DF24NAkKlG-2CSCv-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="140" as="sourcePoint" />
+            <mxPoint x="78.75" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-5" value="屬性名稱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iyo8DF24NAkKlG-2CSCv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-7" value="&lt;b&gt;可見性&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-8" value="-代表private" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Iyo8DF24NAkKlG-2CSCv-7">
+          <mxGeometry y="30" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-9" value="+代表public" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Iyo8DF24NAkKlG-2CSCv-7">
+          <mxGeometry y="56" width="140" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-10" value="#代表protected&lt;br&gt;也可以使用圖形表示" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Iyo8DF24NAkKlG-2CSCv-7">
+          <mxGeometry y="80" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Iyo8DF24NAkKlG-2CSCv-7" target="Iyo8DF24NAkKlG-2CSCv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-12" value="&lt;b&gt;參數列表&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-13" value="&lt;b&gt;操作名稱&lt;br&gt;&lt;/b&gt;斜體為抽象操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.45;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iyo8DF24NAkKlG-2CSCv-13" target="Iyo8DF24NAkKlG-2CSCv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-15" value="&lt;b&gt;返回值類型&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-16" value="&lt;b&gt;缺省值&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-17" value="&lt;b&gt;類名&lt;/b&gt;&lt;br&gt;斜體為抽象類" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.9;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iyo8DF24NAkKlG-2CSCv-15" target="Iyo8DF24NAkKlG-2CSCv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="250" as="sourcePoint" />
+            <mxPoint x="780" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iyo8DF24NAkKlG-2CSCv-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="280" as="sourcePoint" />
+            <mxPoint x="600" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyo8DF24NAkKlG-2CSCv-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.65;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Iyo8DF24NAkKlG-2CSCv-17" target="Iyo8DF24NAkKlG-2CSCv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="320" as="sourcePoint" />
+            <mxPoint x="610" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
